@@ -1,0 +1,31 @@
+.nav-link{
+    color: beige;
+}
+
+.im_s1{
+   background-image: url(/imagenes/portada.jpg);
+   background-size: cover;
+}
+.nav-link:hover{
+    background-color: rgb(167, 244, 247);
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.titulo{
+    color: rgb(112, 112, 241);
+    text-align: center;
+}
+.contenedor{
+   padding: 50PX 0; 
+   width: 90%;
+   max-width: 1000px;
+   margin: auto;
+}
+.imagen{
+    width: 80%;
+}
+.parrafo{
+    text-align: justify;
+}
